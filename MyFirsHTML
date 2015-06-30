@@ -5,11 +5,11 @@
 	<title>Pagina mea</title>
 </head>
 <body>
-	<p>Prim par</p>
-text care nu e pus
- in paragraf
-	<p>
-	Al doilea paragraf
-	</p>
+ <p>Primul paragraf</p>
+ <p>
+ Al doilea paragraf
+ </p>
+ <a href = "http://rosedu.org/"> Pagina ROSEdu</a>
+ 
 </body>
 </html>
